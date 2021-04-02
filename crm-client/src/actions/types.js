@@ -1,0 +1,10 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_CUSTOMERS = "GET_ERRORS";
+export const GET_CUSTOMER = "GET_PROJECT";
+export const DELETE_CUSTOMER = "DELETE_PROJECT";
+export const GET_COUNTRY = "GET_COUNTRY";
+export const GET_LANGUAGE = "GET_LANGUAGE";
+export const GET_TITLE = "GET_TITLE";
+export const GET_STATE = "GET_STATE";
+export const GET_TAGS = "GET_TAGS";
+export const GET_CONTACT = "GET_CONTACT";
